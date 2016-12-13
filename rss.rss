@@ -1,23 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-
+<?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0">
 	<channel>
 		<title>RSS</title>
-		<link>https://verocm5.github.io</link>
-		<description>RSS</description>
+		<link>https://verocm5.github.io/verocm5</link>
+		<description>ejercicio rss</description>
 		<language>es</language>
 		
 		<item>
-			<title> El tiempo en Cuenca</title>
-			<link>http://www.eltiempo24.es/Cuenca_-ES3124132.html</link>
-			<description>Previsión meteorológica de Cuenca</description>
+			<title>El Tiempo en Cuenca</title>
+			<guid>http://www.eltiempo24.es/Cuenca_-ES3124132.html</guid>
+			<description>Previsión Meteorológica de Cuenca</description>
 		</item>
 		
 		<item>
 			<title>Juego de Tronos</title>
-			<link>http://elpais.com/tag/game_of_thrones/a</link>
-			<description> Noticias de la serie Juego de Tronos </description>
+			<guid>http://cultura.elpais.com/cultura/2016/12/05/television/1480962217_205420.html</guid>
+			<description>Noticias sobre Juego de tronos</description>
 		</item>
-		
 	</channel>
 </rss>
