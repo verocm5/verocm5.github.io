@@ -1,2 +1,4 @@
 body {background-color: lightblue;}
-h1 {color:blue;}
+h1 {font-color:blue;}
+p {font-family: verdana; font-size: 20px;}
+p.dashed {border-style: dashed;}
