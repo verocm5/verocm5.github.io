@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<rss version="2.0">
+	<chanel>
+		<title>RSS</title>
+		<link>localhost</link>
+		<description>rss</description>
+		<language>es</language>
+		
+		<item>
+			<title> El tiempo en Cuenca</title>
+			<link>http://www.eltiempo24.es/Cuenca_-ES3124132.html</link>
+			<description>Previsión meteorológica de Cuenca</description>
+		</item>
+		
+		<item>
+			<title>Juego de Tronos</title>
+			<link>http://elpais.com/tag/game_of_thrones/a</link>
+			<description> Noticias de la serie Juego de Tronos </description>
+		</item>
+		
+	</chanel>
+</rss>
