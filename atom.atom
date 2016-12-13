@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+		<title>Atom</title>
+		<id>https://verocm5.github.io</id>
+		<link rel="self" href="https://verocm5.github.io/Atom.atom" />
+		<link rel="alternate" href="https://verocm5.github.io" />
+		<updated>2016-12-13T22:56:00Z</updated>
+		<author>
+			<name>Verónica Cabrera Morales</name>
+			<email>verocm5@gmail.com</email>
+		</author>
+		
+		<entry>
+			<title>El Tiempo en Cuenca</title>
+			<id>http://www.eltiempo24.es/Cuenca_-ES3124132.html</id>
+			<link href="http://www.eltiempo24.es/Cuenca_-ES3124132.html"/>
+			<updated>2016-12-13T22:57:00Z</updated>
+			<author>
+				<name>Verónica Cabrera Morales</name>
+				<email>verocm5@gmail.com</email>
+			</author>
+		</entry>
+		
+		<entry>
+			<title>Juego de Tronos</title>
+			<id>http://cultura.elpais.com/cultura/2016/12/05/television/1480962217_205420.html</id>
+			<link href="http://cultura.elpais.com/cultura/2016/12/05/television/1480962217_205420.html"/>
+			<updated>2016-12-13T22:58:00Z</updated>
+			<author>
+				<name>Verónica Cabrera Morales</name>
+				<email>verocm5@gmail.com</email>
+			</author>
+		</entry>
+</feed>
