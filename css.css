@@ -1,7 +1,7 @@
 body {background-color: lightblue;}
 h1 {font-color:blue;}
 p {font-family: verdana; font-size: 20px; border-style: dashed 2px;}
-div.img {
+#img {
     margin: 5px;
     border: 1px solid #ccc;
     left;
